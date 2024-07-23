@@ -1,6 +1,5 @@
 # 후니의 쉽게 쓴 시스코 네트워킹
-- [책 정보]([http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931556742&orderClick=LEa&Kc=](https://www.yes24.com/Product/Goods/113485068))
-
+- [책 정보](https://www.yes24.com/Product/Goods/113485068)
 ## 📆 기간
 - 일정 : yyyy-MM-dd(dow) ~ yyyy-MM-dd(dow)
 - 매주 수요일 hh시에 Discord에서 만나요.

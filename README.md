@@ -3,7 +3,7 @@
 
 ## 📆 기간
 - 일정 : yyyy-MM-dd(dow) ~ yyyy-MM-dd(dow)
-- 매주 수요일 hh시에 Discort에서 만나요.
+- 매주 수요일 hh시에 Discord에서 만나요.
 
 ## 👨‍👩‍👦 인원
 - 총 3명
